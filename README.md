@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**taisho6339/taisho6339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm taisho6339.
 
-Here are some ideas to get you started:
+I'm a software engineer in Japan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in Kubernetes, Go and architecting infrastructure.
+
+```
+[![](https://raw.githubusercontent.com/taisho6339/taisho6339/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+
+![](https://raw.githubusercontent.com/taisho6339/taisho6339/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+
+```
+[![](https://raw.githubusercontent.com/taisho6339/taisho6339/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+
+![](https://raw.githubusercontent.com/taisho6339/taisho6339/main/profile-summary-card-output/nord_dark/3-stats.svg)
+
